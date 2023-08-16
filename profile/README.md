@@ -10,5 +10,3 @@ Website: https://everneth.com
 [![Our Scripting](https://skillicons.dev/icons?i=bash,python)](https://github.com/everneth)
 ## Tools
 [![Our Tools](https://skillicons.dev/icons?i=visualstudio,vscode,discord,idea,git)](https://github.com/everneth)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/everneth)
